@@ -1,0 +1,24 @@
+ FORMAÇÃO ACADÊMICA ? Pós-Graduação em Sistemas Inteligentes de Apoio à Decisão em Negócios (Business Intelligence Master) - PUC-RJ; ? Bacharel em Ciência da computação - Universidade Veiga de Almeida. 
+ 
+ CURSOS & CERTIFICADOS ? Formação Cientista de Dados- Data Science Academy; ? Data Scientist’s Toolbox - Johns Hopkins University/Coursera; ? R Programming - Johns Hopkins University/Coursera; ? Decoding - Transformando o Comportamento Humano em Dados – Perestroika; ? Scrum Fundamentals Certified – SCRUMstudy. 
+
+ EXPERIÊNCIA PROFISSIONAL 
+Analista de TI – DATAPREV (Desde SET/2012)  ? Operacionalização e sustentação dos atuais produtos de BI existentes; ? Acompanhamento de demandas de correção/evolução dos sistemas de BI do Ministério do Trabalho; ? Propostas de novos projetos de BI, utilizando técnicas de análise de informação para atender objetivos estratégicos; ? Geração de insumos para procedimentos de faturamento dos serviços implantados. 
+ 
+Analista de BI – Eco Sistemas (ABR/2011 – AGO/2012) ? ETL, desenvolvimento e manutenção de relatórios e painéis de indicadores (Dashboards) para a web e dispositivos móveis, utilizando as ferramentas MicroStrategy e Pentaho Data Integration (Kettle);  ? Projetos: UPA 24h, Hospitais, Acompanhamento da Dengue (Sinan Dengue), Pagamento de Fornecedores (Gestão Compartilhada), Gestão de Medicamentos (Assistência Farmacêutica), Gestão de Orçamentos (Financeiro). 
+ 
+Reporting Specialist - Operações de Vendas GTS LA – IBM (MAI/2009- MAR/2011) ? Elaboração e análise de dashboards e relatórios de forecast e roadmap;  ? Interação com funcionários de LA (Latin America) para validação de informações;  ? Preparação de relatórios para executivos de LA;   ? Coordenação de treinamentos para o time de Sales Ops de LA e análise de relatórios de pipeline para validação e correção de informações. 
+ 
+Desenvolvedor – Online Internet Services (NOV/2007- MAI/2009) ? Desenvolvimento e manutenção de e-commerce, utilizando as linguagens Perl, Javascript e HTML, com utilização dos Bancos de dados Oracle e mySQL.  
+ 
+HOBBIES & INTERESSES ? Participação em projetos de análises de dados com cunho social; ? Participação em competições de Data Science (Kaggle); ? Produção de conteúdo sobre Data Science para plataformas digitais. 
+  
+SOBRE MIM   
+Analista de TI/BI, na jornada para se tornar Cientista de Dados. Formado em Ciência da Computação, com Pós-Graduação em Business Intelligence. 
+Pesquisar, responder questões, encontrar padrões, buscar soluções e aprender com dados são habilidades que venho aprimorando na minha trajetória profissional. 
+ 
+SKILLS  
+Scrum, SQL, ETL , Data  Analysis Programação. 
+
+IDIOMAS  
+Inglês Avançado 
